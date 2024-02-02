@@ -1,0 +1,5 @@
+Port = "8080"
+DBPath = "./badger"
+StaticPath = "./"
+TileServerURL = "https://mt.google.com/vt/lyrs=m&hl=en&x={x}&y={y}&z={z}"
+NoLabelTileServerURL = "https://mt.google.com/vt/lyrs=s&hl=en&x={x}&y={y}&z={z}"
